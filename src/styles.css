@@ -1,0 +1,40 @@
+.background-image {
+  background-image: url(./assets/Bg11.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+.pageBackground {
+  background-image: url("./assets/Bg2.jpg");
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.blogImage {
+  background-image: url(./assets/Bg13.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* height: 250px; */
+  width: 320px;
+  border-radius: 20px;
+}
+
+.newsImage {
+  /* background-image: url(./assets/Bg13.jpg); */
+size: cover;
+  /* height: 250px; */
+  width: 600px;
+  border-radius: 20px;
+}
+
+
+
+.news {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+}
+
